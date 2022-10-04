@@ -12,7 +12,5 @@ tonminhce/tonminhce is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonminhce">
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⭐️ [@tonminhce](https://github.com/tonminhce)
